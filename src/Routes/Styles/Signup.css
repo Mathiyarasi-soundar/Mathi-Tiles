@@ -1,0 +1,144 @@
+.signup-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 2.5rem;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 10px;
+    color: black;
+    width: 500px;
+    height: 90vh;
+}
+
+.signup-header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100;
+    margin-top: 30px;
+}
+
+.signup-text {
+    color: aqua;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+
+.signup-underline {
+    width: 61px;
+    height: 6px;
+    background: black;
+    border-radius: 9px;
+}
+
+.signup-inputs {
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.signup-input {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 380px;
+    height: 80px;
+    background: #79797985;
+    ;
+    border-radius: 6px;
+}
+
+.signup-input i {
+    margin: 0px 30px;
+}
+
+.signup-input input {
+    height: 50px;
+    width: 400px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: black;
+    font-size: 19px;
+}
+
+.forgot-password {
+    padding-left: 62px;
+    margin-top: 27px;
+    color: black;
+    font-size: 18px;
+}
+
+.forgot-password span {
+    color: rgb(0, 26, 255);
+    cursor: pointer;
+    padding-left: 15px;
+}
+
+.submit-container {
+    display: flex;
+    gap: 30px;
+    margin: 40px auto;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 59px;
+    color: black;
+    background-color: aqua;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.gray {
+    background: white;
+    color: black;
+}
+
+@media screen and (max-width:859px) {
+    .signup-container {
+        height: 100vh;
+    }
+}
+
+@media screen and (max-width:555px) {
+    .signup-container {
+        margin: 50px;
+        width: 85%;
+        height: 90vh;
+    }
+
+    .signup-input {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width:445px) {
+    .signup-container {
+        margin: 40px;
+        width: 85%;
+        height: 100vh;
+    }
+
+    .signup-input {
+        width: 250px;
+    }
+
+    .forgot-password {
+        padding: 10px;
+    }
+
+    .submit-container {
+        gap: 0px;
+        margin: 0;
+    }
+}
