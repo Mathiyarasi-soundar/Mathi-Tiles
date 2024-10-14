@@ -2,14 +2,14 @@ import React from 'react';
 import './Styles.css';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import { HashRouter } from 'react-router-dom';
+import { BrowserRouter } from 'react-router-dom';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <HashRouter>
+  <BrowserRouter basename='/mathi-tiles'>
     <App />
-  </HashRouter>
+  </BrowserRouter>
 
 );
 
