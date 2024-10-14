@@ -32,4 +32,4 @@ This project is a **Mathi Tiles** built using **React**. The website displays th
     npm start
     ```
 
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser..
+4. Open your browser and navigate to [ https://mathiyarasi-soundar.github.io/mathi-tiles/]( https://mathiyarasi-soundar.github.io/mathi-tiles/) to view it in your browser..
