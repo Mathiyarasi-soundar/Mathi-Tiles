@@ -1,14 +1,19 @@
+.sign {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
 .signup-container {
     display: flex;
     flex-direction: column;
     position: relative;
-    top: 2.5rem;
+    top: 7rem;
     margin: auto;
     background-color: white;
     margin-bottom: 10px;
     color: black;
-    width: 500px;
-    height: 90vh;
+    width: 450px;
 }
 
 .signup-header {
@@ -67,7 +72,7 @@
 }
 
 .forgot-password {
-    padding-left: 62px;
+    margin-left: 2rem;
     margin-top: 27px;
     color: black;
     font-size: 18px;
@@ -83,6 +88,7 @@
     display: flex;
     gap: 30px;
     margin: 40px auto;
+    justify-content: center;
 }
 
 .submit {
@@ -97,6 +103,7 @@
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
+    margin-bottom: 2rem;
 }
 
 .gray {
@@ -104,17 +111,9 @@
     color: black;
 }
 
-@media screen and (max-width:859px) {
-    .signup-container {
-        height: 100vh;
-    }
-}
-
 @media screen and (max-width:555px) {
     .signup-container {
-        margin: 50px;
         width: 85%;
-        height: 90vh;
     }
 
     .signup-input {
@@ -124,9 +123,7 @@
 
 @media screen and (max-width:445px) {
     .signup-container {
-        margin: 40px;
-        width: 85%;
-        height: 100vh;
+        width: 95%;
     }
 
     .signup-input {

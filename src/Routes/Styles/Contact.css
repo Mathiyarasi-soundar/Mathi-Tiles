@@ -99,6 +99,7 @@
 @media screen and (max-width:555px) {
     .contact-section {
         font-size: smaller;
+        margin: 4rem 0;
     }
 
     .contact-details img {
