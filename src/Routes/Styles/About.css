@@ -12,7 +12,6 @@
 
 .about-head {
     position: absolute;
-    /* top: 250px; */
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -34,7 +33,6 @@
     }
 
     .about-head{
-        height: 25vh;
         font-size: larger;
     }
 
