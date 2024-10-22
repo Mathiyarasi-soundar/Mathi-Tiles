@@ -3,6 +3,8 @@
 ## Overview
 This project is a **Mathi Tiles** built using **React**. The website displays the grand tiles expo with images, descriptions, and interactive features, designed to showcase products (tiles) attractively. Users can browse through different tiles and view detailed information.
 
+ Open your browser and navigate to [ https://mathiyarasi-soundar.github.io/mathi-tiles/]( https://mathiyarasi-soundar.github.io/mathi-tiles/) to view it in your browser..
+
 ## Features
 - **Responsive Design**: Mobile-friendly layout using modern CSS (Flexbox/Grid).
 - **Tile Display**: Showcase tiles with images, names and descriptions.
@@ -31,5 +33,3 @@ This project is a **Mathi Tiles** built using **React**. The website displays th
     ```bash
     npm start
     ```
-
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view it in your browser..
