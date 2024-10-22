@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mathi-tiles/static/css/main.cecec44c.css",
-    "main.js": "/mathi-tiles/static/js/main.45c49ce4.js",
+    "main.css": "/mathi-tiles/static/css/main.8970193d.css",
+    "main.js": "/mathi-tiles/static/js/main.ed01a3d7.js",
     "static/media/floor tiles 5.png": "/mathi-tiles/static/media/floor tiles 5.ce76e84d48f302b1496d.png",
     "static/media/wall tiles 5.png": "/mathi-tiles/static/media/wall tiles 5.561e4719357f4e35de9e.png",
     "static/media/livingroom tiles 5.png": "/mathi-tiles/static/media/livingroom tiles 5.78d3a62775b6ddef5f11.png",
@@ -98,11 +98,11 @@
     "static/media/trending-1.jpg": "/mathi-tiles/static/media/trending-1.ce57f7fd5701416a9001.jpg",
     "static/media/kitchen-5.jfif": "/mathi-tiles/static/media/kitchen-5.848eb906f2ecb55588ad.jfif",
     "index.html": "/mathi-tiles/index.html",
-    "main.cecec44c.css.map": "/mathi-tiles/static/css/main.cecec44c.css.map",
-    "main.45c49ce4.js.map": "/mathi-tiles/static/js/main.45c49ce4.js.map"
+    "main.8970193d.css.map": "/mathi-tiles/static/css/main.8970193d.css.map",
+    "main.ed01a3d7.js.map": "/mathi-tiles/static/js/main.ed01a3d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.cecec44c.css",
-    "static/js/main.45c49ce4.js"
+    "static/css/main.8970193d.css",
+    "static/js/main.ed01a3d7.js"
   ]
 }
