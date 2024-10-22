@@ -33,7 +33,9 @@
         height: 10vh;
     }
     .about-head{
-        top:20rem
+        top:20rem;
+        position:relative;
+        height:10vh;
     }
 
 }
